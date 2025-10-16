@@ -1,0 +1,14 @@
+/* This is your CSS file */
+/* Comments look like this. */
+
+/* This ruleset defines the styling for the entire body of your HTML document. */
+body {
+    /* Change this background-color. */
+    background-color: white;
+}
+
+/* This defines styling for all your p elements */
+
+p {
+
+}
